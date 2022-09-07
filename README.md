@@ -7,3 +7,10 @@ Trendline and forecasting of data was performed to understand the future situati
 Dashboard of international and India were represented so as I chose one particular country to study.
 Total cases, recovered cases, deaths and future status was taken into account to analyze.
 Forecast analysis, variation, sorting-grouping, design dashboard of data visualization and presented in story form.
+
+# International Covid analysis dashboard 
+![Screenshot (6)](https://user-images.githubusercontent.com/113060739/188996534-8bd4cca1-8377-4deb-bd5e-10cd264f07ea.png)
+
+# Indian Covid analysis dashboard 
+![Screenshot (7)](https://user-images.githubusercontent.com/113060739/188996556-67ee2b14-399e-4bc8-b078-d1265ba6a411.png)
+
